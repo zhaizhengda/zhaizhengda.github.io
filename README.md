@@ -1,1 +1,1 @@
-# zhaizhengda.github.io
+# 北京科技大学新生常见问题解答
