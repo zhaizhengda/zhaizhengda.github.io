@@ -370,3 +370,6 @@ update: 2023-08-25
 ---
 ## 调查问卷
 <script type='text/javascript' src='https://www.wjx.cn/handler/jqemed.ashx?activity=exqYT4F&width=750&source=iframe'></script>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv"><span id="busuanzi_value_site_pv"></span></span>
